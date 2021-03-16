@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
-import 'package:flutter_redux_starter/models/launch.dart';
-import 'package:flutter_redux_starter/redux/actions/launches_actions.dart';
 import 'package:flutter_redux_starter/redux/states/launches_state.dart';
 import 'package:flutter_redux_starter/redux/store.dart';
 import 'package:flutter_redux_starter/redux/thunks/launches_thunks.dart';

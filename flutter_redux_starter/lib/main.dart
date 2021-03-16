@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
 import 'package:flutter_redux_starter/redux/redux.dart';
-
 import 'screens/launches_screen.dart';
 
 void main() {
